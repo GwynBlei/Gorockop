@@ -1,0 +1,37 @@
+C:\Users\RICH\source\repos\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\bin\Debug\GOROSKOP_Zadiakalniy.exe.config
+C:\Users\RICH\source\repos\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\bin\Debug\GOROSKOP_Zadiakalniy.exe
+C:\Users\RICH\source\repos\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\bin\Debug\GOROSKOP_Zadiakalniy.pdb
+C:\Users\RICH\source\repos\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.csproj.AssemblyReference.cache
+C:\Users\RICH\source\repos\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.Form1.resources
+C:\Users\RICH\source\repos\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.Properties.Resources.resources
+C:\Users\RICH\source\repos\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.csproj.GenerateResource.cache
+C:\Users\RICH\source\repos\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.csproj.CoreCompileInputs.cache
+C:\Users\RICH\source\repos\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.exe
+C:\Users\RICH\source\repos\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.pdb
+C:\Users\RICH\source\repos\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.Form2.resources
+C:\Users\RICH\source\repos\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.Form3.resources
+D:\ИС-23\Навольнев, Клыков\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\bin\Debug\GOROSKOP_Zadiakalniy.exe.config
+D:\ИС-23\Навольнев, Клыков\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\bin\Debug\GOROSKOP_Zadiakalniy.exe
+D:\ИС-23\Навольнев, Клыков\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\bin\Debug\GOROSKOP_Zadiakalniy.pdb
+D:\ИС-23\Навольнев, Клыков\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.csproj.AssemblyReference.cache
+D:\ИС-23\Навольнев, Клыков\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.Form1.resources
+D:\ИС-23\Навольнев, Клыков\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.Form2.resources
+D:\ИС-23\Навольнев, Клыков\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.Form3.resources
+D:\ИС-23\Навольнев, Клыков\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.Properties.Resources.resources
+D:\ИС-23\Навольнев, Клыков\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.csproj.GenerateResource.cache
+D:\ИС-23\Навольнев, Клыков\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.csproj.CoreCompileInputs.cache
+D:\ИС-23\Навольнев, Клыков\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.exe
+D:\ИС-23\Навольнев, Клыков\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.pdb
+D:\ИС-23\Навольнев, Клыков\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.csproj.SuggestedBindingRedirects.cache
+C:\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.csproj.AssemblyReference.cache
+C:\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.exe
+C:\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.pdb
+C:\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\bin\Debug\GOROSKOP_Zadiakalniy.exe.config
+C:\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\bin\Debug\GOROSKOP_Zadiakalniy.exe
+C:\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\bin\Debug\GOROSKOP_Zadiakalniy.pdb
+C:\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.Form1.resources
+C:\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.Form2.resources
+C:\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.Form3.resources
+C:\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.Properties.Resources.resources
+C:\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.csproj.GenerateResource.cache
+C:\GOROSKOP_Zadiakalniy\GOROSKOP_Zadiakalniy\obj\Debug\GOROSKOP_Zadiakalniy.csproj.CoreCompileInputs.cache
